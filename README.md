@@ -5,7 +5,7 @@ This project is a front-end clone of the YouTube homepage built using HTML and C
 ## 📸 Preview
 
 <-- 
-    <a href = "http://127.0.0.1:5500/youtube.html"></a>
+    <img src="image.png">
 -->
 
 ## 🛠️ Features
@@ -19,22 +19,6 @@ This project is a front-end clone of the YouTube homepage built using HTML and C
 *Tooltips for interactive icons.
 
 *Video preview cards with thumbnails, titles, channels, and stats.
-
-## 📁 Project Structure
-
-/
-├── index.html
-├── styles/
-│   ├── general.css
-│   ├── header.css
-│   ├── sidebar.css
-│   └── video.css
-├── icons/
-│   └── *.svg
-├── thumbnails/
-│   └── *.webp
-├── channel-pictures/
-│   └── *.jpeg
 
 ## 🚀 Getting Started
 
